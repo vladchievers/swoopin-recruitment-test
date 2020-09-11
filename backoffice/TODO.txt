@@ -1,7 +1,0 @@
-- CHECK token dans session
-- LES 4 routes
-
-https://developers.google.com/maps/documentation/utilities/polylineutility
-_b~hHsqhMuA|PgBfLoEj\oKry@aJro@kNbcAkL|{@_Kp`@mL|^{Jnb@cKvm@}Odc@mIrXiDbIqCrDoEjByFImEaBwBeAcAH}@nAoBu@_IgEgXyNoTqLmPkJsD}CaIqEoO_NeTePeEgD_C}AiA}AcABk@t@{B_EuEaE_FqFw@gD{@aBuCaLuBiC_AuCWwBnBgJ`DaO~Gs[zA}Fx@E`AiBGaClB_BvJyHdMiGpImBfHyAVc@nAW|AuFlBg@tFQbDl@dKnBfLdClGxKj@zA`EvF|BjEzE{I~EkJ|FiKzH}NxHwN\q@{FoGs@]Kg@`HkMrBqDf@@\ULaAQaAk@_@YMeAmHo@aEs@yExE{BpAcAtDgJpCiHRg@b@\rC_@hDoA|KgChKmDzKiDtKoDtL}DbImBxLeEtEkAFZ\?Nc@Km@Eg@A}GD}GHgNbC{[hEcj@rDnClCfA~EZj@[rBwE~CxDf@`@RhABLj@c@VLxBi@`ACbBD
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-
