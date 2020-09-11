@@ -40,6 +40,9 @@ Here are the files and folders you can see in VS Code:
       - `utils` => basic utils state (configuration and layout)
     - `style` => shared CSS styles
     - `utils` => => some utils functions
+- `scripts` => some utils scripts (run and configuration)
+- `screenshots` => screenshots of finished application
+- `utils` => => some utils files (eslint configuration)
 
 ## API code Structure
 In API, all routes (api/src/routes) contains all routes, which are mounted in main launch script (api/src/index.ts).
